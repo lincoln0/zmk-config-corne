@@ -1,0 +1,6 @@
+if SHIELD_ICARUS
+
+config ZMK_KEYBOARD_NAME
+	default "Icarus"
+
+endif
